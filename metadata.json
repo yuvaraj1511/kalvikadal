@@ -1,0 +1,6 @@
+{
+  "name": "Kalvi Kadhai - TN Samacheer Kalvi Learning Games",
+  "description": "Just 10 minutes a day to master the TN Samacheer Kalvi syllabus through interactive learning games for Class 1 to Class 5.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
